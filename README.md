@@ -19,6 +19,6 @@ Estrutura/Padrões                       | Principais bibliotecas            |
 
 <h2>Exemplos dos Códigos</h2>
 
-<h3><a href="https://github.com/WalderlanSena/miniCursoArduino/tree/master/src/exemplo00"> 
+<h3><a href="https://github.com/WalderlanSena/miniCursoArduino/blob/master/src/exemplo00/exemplo00.ino"> 
   <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/Icon_download-01.svg" width="25"> Exemplo 00 - Estrutura Básica
 </a></h3>
