@@ -17,3 +17,8 @@ Pinos G.P.I.O                           | Controle de fluxo                 |
 Arduino IDE (Gnu/Linux, Windowns, MacOs)| Funções da biblioteca padrão      |
 Estrutura/Padrões                       | Principais bibliotecas            |
 
+<h2>Exemplos dos Códigos</h2>
+
+<h3><a href="https://github.com/WalderlanSena/miniCursoArduino/tree/master/src/exemplo00"> 
+  <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/Icon_download-01.svg" width="25"> Exemplo 00 - Estrutura Básica
+</a></h3>
