@@ -4,7 +4,7 @@
 </p>
 <p align="center">Códigos desenvolvidos no Mini Curso de Arduíno <br/> <img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></p>
 
-<h2>Ementa do Curso</h2>
+<h2>:bookmark_tabs: Ementa do Curso</h2>
 
 | :notebook: MÓDULO I                     | :notebook: MÓDULO II              | :notebook: MÓDULO III                 | :notebook: MÓDULO IV              |
 |-----------------------------------------|-----------------------------------|---------------------------------------|-----------------------------------|
@@ -18,7 +18,7 @@
 | Estrutura/Padrões                       | Principais bibliotecas            |                                       | Arduino + Réle                    |
 |                                         |                                   |                                       | Extra: Projeto Final              |
 
-<h2>Exemplos dos Códigos</h2>
+<h2>:package: Exemplos dos Códigos</h2>
 
 <h3><a href="https://github.com/WalderlanSena/miniCursoArduino/blob/master/src/exemplo00/exemplo00.ino"> 
   <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/Icon_download-01.svg" width="25"> Exemplo 00 - Estrutura Básica
