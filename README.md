@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://cdn.arduino.cc/homepage/images/what_is-board.png">
 </p>
-<p align="center">Códigos desenvolvidos no Mini Curso de Arduíno</p>
+<p align="center">Códigos desenvolvidos no Mini Curso de Arduíno <br/> <img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></p>
 
 <h2>Ementa do Curso</h2>
 
@@ -26,3 +26,6 @@
 <h3><a href="https://github.com/WalderlanSena/miniCursoArduino/blob/master/src/exemplo01/exemplo01.ino"> 
   <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/Icon_download-01.svg" width="25"> Exemplo 01 - Criando o primeiro sketch: Blink
 </a></h3>
+
+## :page_facing_up: Licença
+Os softwares deponibilizados neste repósitorio são softwares de código aberto licenciado sob a licença GPL license.
