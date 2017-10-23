@@ -6,16 +6,17 @@
 
 <h2>Ementa do Curso</h2>
 
-| MÓDULO I                                | MÓDULO II                         | MÓDULO III                          | MÓDULO IV                        |
-|-----------------------------------------|-----------------------------------|-------------------------------------|----------------------------------|
-| Apresentações gerais/Introdução         | Wiring: Linguagem Baseada em C++  | Introdução a Protoboard             | O que são sensores               |
-| Breve História                          | Documentação Principal            | Mantendo o padrão de cores dos fios | O que são shields                |
-| O que é o arduino (Uno)                 | Criando o primeiro sketch: Blink  | Resistência com o código de cores   | Utilizando sensor de luminosidade|
-| Tipos de Arduinos                       | Tipos de dados/Primitivos         | Saídas digitais do Arduino          | Shield Ponte H                   |
-| Datasheet                               | Sintaxe básica                    | Como acender e apagar um LED        | Como funciona Sensor Ultrasonico |
-| Pinos G.P.I.O                           | Controle de fluxo                 | Lendo o estado de um botão          | Sensor de toque(Touch)           |
-| Arduino IDE (Gnu/Linux, Windowns, MacOs)| Funções da biblioteca padrão      | Fazendo barulho com a função tone   | Arduino + Relé                   |
-| Estrutura/Padrões                       | Principais bibliotecas            |                                     | Extra: Projeto Final             |
+| MÓDULO I                                | MÓDULO II                         | MÓDULO III                            | MÓDULO IV                         |
+|-----------------------------------------|-----------------------------------|-------------------------------------  |---------------------------------- |
+| Apresentações gerais/Introdução         | Wiring: Linguagem Baseada em C++  | Introdução a Protoboard               | Serial/USB com o PC               |
+| Breve História                          | Documentação Principal            | Mantendo o padrão de cores dos fios   | O que são sensores                |
+| O que é o arduino (Uno)                 | Criando o primeiro sketch: Blink  | Resistência com o código de cores     | O que são Shields                 |
+| Tipos de Arduinos                       | Tipos de dados/Primitivos         | Saídas digitais/Analógicas do Arduino | Utilizando sensor de luminosidade |
+| Datasheet                               | Sintaxe básica                    | Como acender e apagar um LED          | Shield Ponte H                    |
+| Pinos G.P.I.O                           | Controle de fluxo                 | Lendo o estado de um botão            | Como funciona Sensor Ultrasonico  |
+| Arduino IDE (Gnu/Linux, Windowns, MacOs)| Funções da biblioteca padrão      | Fazendo barulho com a função tone     | Sensor de Toque (Touch)           |
+| Estrutura/Padrões                       | Principais bibliotecas            |                                       | Arduino + Réle                    |
+|                                         |                                   |                                       | Extra: Projeto Final              |
 
 <h2>Exemplos dos Códigos</h2>
 
