@@ -4,7 +4,7 @@
 </p>
 <p align="center">Códigos desenvolvidos no Mini Curso de Arduíno <br/> <img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></p>
 
-<h2>:bookmark_tabs: Ementa do Curso</h2>
+<h2>:bookmark_tabs: Ementa do Mini Curso</h2>
 
 | :notebook: MÓDULO I                     | :notebook: MÓDULO II              | :notebook: MÓDULO III                 | :notebook: MÓDULO IV              |
 |-----------------------------------------|-----------------------------------|---------------------------------------|-----------------------------------|
@@ -29,4 +29,4 @@
 </a></h3>
 
 ## :page_facing_up: Licença
-Os softwares deponibilizados neste repósitorio são softwares de código aberto licenciado sob a licença GPL license.
+Os softwares desponibilizados neste repósitorio são softwares de código aberto licenciado sob a licença GPL license.
