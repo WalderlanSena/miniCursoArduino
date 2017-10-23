@@ -8,7 +8,9 @@
 
 /**
  * Método setup, onde se define a inicialização dos componentes
- * e configurações gerais do software
+ * e configurações gerais do software.
+ * A função de configuração é executada uma vez quando você pressiona 
+ * a reinicialização ou a alimentação da placa
  */
 void setup() {
 
