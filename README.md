@@ -6,8 +6,8 @@
 
 <h2>Ementa do Curso</h2>
 
-| MÓDULO I                                | MÓDULO II                         | MÓDULO III                            | MÓDULO IV                         |
-|-----------------------------------------|-----------------------------------|-------------------------------------  |---------------------------------- |
+| :notebook: MÓDULO I                     | :notebook: MÓDULO II              | :notebook: MÓDULO III                 | :notebook: MÓDULO IV              |
+|-----------------------------------------|-----------------------------------|---------------------------------------|-----------------------------------|
 | Apresentações gerais/Introdução         | Wiring: Linguagem Baseada em C++  | Introdução a Protoboard               | Serial/USB com o PC               |
 | Breve História                          | Documentação Principal            | Mantendo o padrão de cores dos fios   | O que são sensores                |
 | O que é o arduino (Uno)                 | Criando o primeiro sketch: Blink  | Resistência com o código de cores     | O que são Shields                 |
