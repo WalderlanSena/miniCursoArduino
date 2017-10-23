@@ -1,4 +1,7 @@
 <h1 align="center"> Mini Curso de Arduino</h1>
+
+<h6 align="center"><i>"A ciência é um trabalho de artesanato intelectual."</i> W. Mills</h6>
+
 <p align="center">
   <img src="https://cdn.arduino.cc/homepage/images/what_is-board.png">
 </p>
