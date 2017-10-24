@@ -35,5 +35,16 @@
   <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/Icon_download-01.svg" width="25"> Exemplo 02 - Tipos Primitivos
 </a></h3>
 
+<h2><img src="http://relle.ufsc.br/img/docs/pdf.png" width="20"> Datasheets</h2>
+
+<h3><a href="https://github.com/WalderlanSena/miniCursoArduino/blob/master/datasheets/Arduino_Uno_Rev3-schematic.pdf"> 
+  <img src="http://relle.ufsc.br/img/docs/pdf.png" width="25"> Arduino_Uno_Rev3-schematic.pdf
+</a></h3>
+
+<h3><a href="https://github.com/WalderlanSena/miniCursoArduino/blob/master/datasheets/Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf"> 
+  <img src="http://relle.ufsc.br/img/docs/pdf.png" width="25"> Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf
+</a></h3>
+
+
 ## :page_facing_up: Licença
 Os softwares desponibilizados neste repósitorio são softwares de código aberto licenciado sob a licença GPL license.
