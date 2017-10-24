@@ -8,11 +8,13 @@
 
 #define LED 13                //Definição da constante LED pino 13
 
-void setup() {
+void setup () 
+{
   pinMode(LED, OUTPUT);       //Setando o pino 13 como saida
 }//end setup
 
-void loop() {
+void loop () 
+{
   digitalWrite(LED, HIGH);    //Enviando o valor maximo
   delay(1000);                //Esperando 1000ms
   digitalWrite(LED, LOW);     //Enviando o valor minimo

@@ -12,7 +12,8 @@
  * A função de configuração é executada uma vez quando você pressiona 
  * a reinicialização ou a alimentação da placa
  */
-void setup() {
+void setup () 
+{
 
 
 }//end setup
@@ -21,7 +22,8 @@ void setup() {
  * Método loop - onde se define as funcionalidade infinitas, onde sempre
  * será repetido as instruções aqui definidas
  */
-void loop() {
+void loop () 
+{
 
 
 }//end loop
