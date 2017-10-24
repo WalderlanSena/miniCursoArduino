@@ -31,5 +31,9 @@
   <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/Icon_download-01.svg" width="25"> Exemplo 01 - Criando o primeiro sketch: Blink
 </a></h3>
 
+<h3><a href="https://github.com/WalderlanSena/miniCursoArduino/blob/master/src/exemplo02/exemplo02.ino"> 
+  <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/Icon_download-01.svg" width="25"> Exemplo 02 - Tipos Primitivos
+</a></h3>
+
 ## :page_facing_up: Licença
 Os softwares desponibilizados neste repósitorio são softwares de código aberto licenciado sob a licença GPL license.
