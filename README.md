@@ -21,7 +21,11 @@
 | Estrutura/Padrões                       | Principais bibliotecas            |                                       | Arduino + Réle                    |
 |                                         |                                   |                                       | Extra: Projeto Final              |
 
-<h2>:package: Exemplos dos Códigos</h2>
+<h2>
+  <a href="#">
+    <img src="https://github.com/WalderlanSena/miniCursoArduino/blob/master/imagens/github.png" width="50"> Exemplos dos Códigos
+  </a>
+  </h2>
 
 <h3><a href="https://github.com/WalderlanSena/miniCursoArduino/blob/master/src/exemplo00/exemplo00.ino"> 
   <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/Icon_download-01.svg" width="25"> Exemplo 00 - Estrutura Básica
