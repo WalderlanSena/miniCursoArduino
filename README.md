@@ -22,9 +22,9 @@
 |                                         |                                   |                                       | Extra: Projeto Final              |
 
 <h2>
-  <a href="#">
+  <span>
     <img src="https://github.com/WalderlanSena/miniCursoArduino/blob/master/imagens/github.png" width="50"> Exemplos dos Códigos
-  </a>
+  </span>
   </h2>
 
 <h3><a href="https://github.com/WalderlanSena/miniCursoArduino/blob/master/src/exemplo00/exemplo00.ino"> 
